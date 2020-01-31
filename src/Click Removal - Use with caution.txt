@@ -1,0 +1,1 @@
+ClickRemoval:Threshold="200" Width="20"

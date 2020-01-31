@@ -1,0 +1,1 @@
+RegularIntervalLabels:adjust="No" firstnum="1" interval="300" labeltext="" mode="Both" region="0" totalnum="15" verbose="Details" zeros="TwoBefore"

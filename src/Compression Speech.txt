@@ -1,0 +1,1 @@
+Compressor:AttackTime="0.1" NoiseFloor="-40" Normalize="1" Ratio="3.3" ReleaseTime="1" Threshold="-26" UsePeak="0"

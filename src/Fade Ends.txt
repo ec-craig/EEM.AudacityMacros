@@ -1,0 +1,5 @@
+Select:End="2" Start="0"
+FadeIn:Use_Preset="<Factory Defaults>"
+Select:End="2" RelativeTo="ProjectEnd" Start="0"
+FadeOut:Use_Preset="<Factory Defaults>"
+Select:Start="0" End="0"

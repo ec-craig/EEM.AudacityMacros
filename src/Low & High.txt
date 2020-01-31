@@ -1,0 +1,2 @@
+LowPassFilter:frequency="20000" rolloff="dB12"
+HighPassFilter:frequency="80" rolloff="dB12"
